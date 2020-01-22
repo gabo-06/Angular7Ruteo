@@ -1,0 +1,12 @@
+#header {
+    width: 100%;
+    background: #5d5d5d;
+    padding: 15px;
+    color: #ffffff;
+}
+
+#header > a {
+    color: #ffffff;
+    text-decoration: underline;
+    margin-left: 7px;
+}
